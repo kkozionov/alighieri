@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8fc7137-abb6-4852-80ac-feb78127f396" name="Default" comment="[*] Hello world">
+    <list default="true" id="f8fc7137-abb6-4852-80ac-feb78127f396" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -333,7 +333,7 @@
       <created>1448425950950</created>
       <option name="number" value="Default" />
       <updated>1448425950950</updated>
-      <workItem from="1448425956782" duration="4026000" />
+      <workItem from="1448425956782" duration="4075000" />
     </task>
     <task id="LOCAL-00001" summary="[+] iisnode configuration">
       <created>1448428024280</created>
@@ -371,11 +371,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448463324476</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[*] Hello world 1">
+      <created>1448465424034</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1448465424034</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4026000" />
+    <option name="totallyTimeSpent" value="4075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -416,7 +422,8 @@
     <MESSAGE value="[*] Strict mode" />
     <MESSAGE value="[*] Node version for Azure" />
     <MESSAGE value="[-] Superagent" />
-    <option name="LAST_COMMIT_MESSAGE" value="[-] Superagent" />
+    <MESSAGE value="[*] Hello world 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[*] Hello world 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
