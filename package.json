@@ -2,8 +2,9 @@
   "name": "alighieri",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "main": "server.js",
+  "engines": {
+    "node": "4.1.1"
   },
   "dependencies": {
     "body-parser": "~1.13.2",

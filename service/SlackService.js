@@ -1,6 +1,4 @@
-/**
- * Created by curloid on 11/24/15.
- */
+"use strict";
 var request = Promise.promisifyAll(require('superagent'));
 
 var slackWebHook = "https://hooks.slack.com/services/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";

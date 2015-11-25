@@ -1,3 +1,4 @@
+"use strict";
 global.Promise = require('bluebird');
 var SlackService = require("./service/SlackService");
 
