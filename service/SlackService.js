@@ -14,7 +14,7 @@ var SlackService = {
 	_sendSystemMessage: function (message) {
 		if (slackWebHook) {
 			return request.postAsync(slackWebHook, {
-				text: process.env.name ? process.env : "TEST" +  (": " + message),
+				text: process.env.name ? process.env.name : "TEST" +  (": " + message),
 				username: "curloid-bot"
 			}).then(function() {
 				return Promise.resolve(true);
